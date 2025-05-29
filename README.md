@@ -34,7 +34,7 @@ go run main.go -region <region> -operation <operation>
 - Download artefact from [here]()
 - Run executable:
 ```bash
-ping-monitor -config <path>
+ls-aws -region <region> -operation <operation>
 ```
 
 ## ⚙️ Flags
